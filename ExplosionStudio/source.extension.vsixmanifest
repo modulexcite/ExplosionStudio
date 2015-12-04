@@ -6,7 +6,7 @@
     <Description xml:space="preserve">A Visual Studio extension that adds explosions and makes everyone think you are awesome!</Description>
     <MoreInfo>http://www.saphua.com/</MoreInfo>
     <Icon>bomb.png</Icon>
-    <PreviewImage>bomb.png</PreviewImage>
+    <PreviewImage>screenshot.png</PreviewImage>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0]" />
