@@ -1,2 +1,2 @@
-# ExplosionStudio
-A Visual Studio extension that adds explosions and makes everyone think you are awesome!
+# Discontinued
+Because this offers the same functionality as https://github.com/LiamMorrow/Visual-Studio-Power-Mode I have decided to discontinue development.
